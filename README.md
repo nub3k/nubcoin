@@ -1,0 +1,2 @@
+# nubcoin
+Just nubbin
